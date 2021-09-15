@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/technosoftcodex/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/technosoftcodex/static/js/main.be3f9fa8.chunk.js",
-    "main.js.map": "/technosoftcodex/static/js/main.be3f9fa8.chunk.js.map",
+    "main.js": "/technosoftcodex/static/js/main.d2ce5ee6.chunk.js",
+    "main.js.map": "/technosoftcodex/static/js/main.d2ce5ee6.chunk.js.map",
     "runtime-main.js": "/technosoftcodex/static/js/runtime-main.72636ee9.js",
     "runtime-main.js.map": "/technosoftcodex/static/js/runtime-main.72636ee9.js.map",
     "static/js/2.142e26c2.chunk.js": "/technosoftcodex/static/js/2.142e26c2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.72636ee9.js",
     "static/js/2.142e26c2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.be3f9fa8.chunk.js"
+    "static/js/main.d2ce5ee6.chunk.js"
   ]
 }
