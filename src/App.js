@@ -26,7 +26,7 @@ import FreshGradHiring from './components/Careers/FreshGradHiring';
 function App() {
   return (
     <div >
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <BrowserRouter basename='/technosoftcodex'>
    <Route exact path='/' component={Landing}/>
    <Route exact path='/whytech' component={WhyTechnosoft}/>
    <Route exact path='/web-app-development' component={WebAppDevelopment}/>
