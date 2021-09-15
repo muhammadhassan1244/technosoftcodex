@@ -27,7 +27,7 @@ function App() {
   return (
     <div >
         <BrowserRouter>
-   <Route exact path='/technosoftcodex' component={Landing}/>
+   <Route exact path='/' component={Landing}/>
    <Route exact path='/whytech' component={WhyTechnosoft}/>
    <Route exact path='/web-app-development' component={WebAppDevelopment}/>
    <Route exact path='/mobile-app-development' component={MobileAppDevelopment}/>
